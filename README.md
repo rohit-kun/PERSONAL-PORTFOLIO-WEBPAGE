@@ -25,3 +25,12 @@ A consistent color palette and typography were used throughout the page to ensur
 This project improved my understanding of HTML semantics, CSS layout strategies, and responsive web design. I also learned how to organize a static site into folders and maintain clean, readable code that could be easily expanded later. Additionally, the process helped me reflect on how to present my own story and work to others — a crucial skill for professional branding.
 
 In short, this task allowed me to build a personal web presence from the ground up. The portfolio website not only fulfills internship requirements but will also serve as a valuable tool for my career. It’s clean, easy to navigate, responsive, and clearly presents my developer journey so far.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f6ea698a-85e7-4f62-affa-61c3ae308b54)
+
+![Image](https://github.com/user-attachments/assets/f03d17b3-9e10-49e0-a840-0b02e2f78aa5)
+
+![Image](https://github.com/user-attachments/assets/ea63ef2e-40fb-4f86-a6a0-ca10eb733f0c)
+
